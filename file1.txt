@@ -1,5 +1,7 @@
 File 1 test 1
 
 File 1 test 2-nhanh1
+File 1 test 2-suanhanh2
 
 Dong nay Viet bang nhanh1
+Nhanh 2 ghi chu
